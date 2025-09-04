@@ -1,4 +1,4 @@
-# Lumora-UI – Clarity Engine
+# Lumora - UI 
 
 Where tradition meets technology. Lumora UI is a clarity engine — an accessibility‑first, ethical UI framework for inclusive, mobile‑first web components. We design with the wisdom of the past and the vision of tomorrow.
 
